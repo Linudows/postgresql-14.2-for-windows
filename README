@@ -1,7 +1,9 @@
 PostgreSQL 14.2 Windows Version by Linudows
 1. install msys64
-2. git clone source to msys64\home\Administrator\postgresql-14.2
-3. ./build.sh
+2. enter mingw64
+3. modify serveral head file in mingw64\include, please refer these head file in source dir [mingw64] 
+4. git clone source to msys64\home\Administrator\postgresql-14.2
+5. ./build.sh
 ----------------------------------------------------------------------------
 
 PostgreSQL Database Management System
